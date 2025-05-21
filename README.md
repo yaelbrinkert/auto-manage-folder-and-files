@@ -1,4 +1,4 @@
-# auto-create-folder
+# auto-manage-folder-and-files
 
 This small python script detects automatically sub-folders in folders, to access the very end of the path. From here, it will look at all files, create folders from files name, and move the file to his corresponding folder.
 
