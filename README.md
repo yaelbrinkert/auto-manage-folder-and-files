@@ -2,7 +2,7 @@
 
 This small python script detects automatically sub-folders in folders, to access the very end of the path. From here, it will look at all files, create folders from files name, and move the file to his corresponding folder.
 
-Let's say we have a folder that contains many images. Those images should have a corresponding JSON attached to it (having informations concerning the image). I want don't want my folder to become a mess, having all JSONs and images at the same place.
+Let's say we have a folder that contains many images. Those images should have a corresponding JSON attached to it (having informations concerning the image). I don't want my folder to become a mess, having all JSONs and images at the same place.
 
 But, I'm lazy, I don't want to manually create a folder to host my image and his JSON.
 
